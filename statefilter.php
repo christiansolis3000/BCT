@@ -1,5 +1,7 @@
 <?php
+
 echo "adding new line";
+echo "modify from branch";
 if(file_exists("../configuration/app.php"))
 include("../configuration/app.php");
 else
