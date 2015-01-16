@@ -1,4 +1,6 @@
 <?php
+echo "modify from branch";
+
 if(file_exists("../configuration/app.php"))
 include("../configuration/app.php");
 else
