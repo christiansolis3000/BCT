@@ -1,4 +1,5 @@
 <?php
+echo "adding new line";
 if(file_exists("../configuration/app.php"))
 include("../configuration/app.php");
 else
